@@ -1,0 +1,4 @@
+<resources>
+    <string name="local_time_text">Local Time</string>
+    <string name="global_time_text">Global Time</string>
+</resources>
